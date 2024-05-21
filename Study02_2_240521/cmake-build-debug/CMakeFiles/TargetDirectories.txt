@@ -1,0 +1,3 @@
+D:/C_Project/Study02_2_240521/cmake-build-debug/CMakeFiles/Study02_2_240521.dir
+D:/C_Project/Study02_2_240521/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C_Project/Study02_2_240521/cmake-build-debug/CMakeFiles/rebuild_cache.dir
